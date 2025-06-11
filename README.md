@@ -1,5 +1,7 @@
 # PhotoForge
 
+![Alt text](Display.png)
+
 **PhotoForge** is a lightweight and efficient image converter designed to simplify texture export workflows. Whether you're working on game development, 3D rendering, or general graphic design, PhotoForge makes batch image conversion fast and hassle-free.
 
 ## ✨ Features
